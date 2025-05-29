@@ -1,1 +1,9 @@
 # Monte_Carlo_Simulations
+
+This repository is dedicated to projects that apply Monte Carlo simulation techniques to solve complex, uncertain, and dynamic problems, particularly in business, finance, and agribusiness. With my academic foundation in Business Administration at the European International University in Paris and an MBA in Project Management from USP ESALQ (e-distance learning), I am especially interested in how simulation models can support decision-making in contexts where risk, variability, and long-term outcomes play a critical role.
+
+Monte Carlo methods allow for the modeling of scenarios that are otherwise difficult to predict using static analysis alone. Here, I implement simulations in Python to explore a wide range of use cases, including financial projections, crop yield forecasts under climate uncertainty, and probabilistic cost estimates for agricultural operations. By defining inputs as probabilistic distributions and running thousands of iterations, I can estimate ranges of possible outcomes and better understand the sensitivity of decisions to different variables.
+
+All projects in this repository follow a structured approach: defining the problem, modeling the uncertainty, simulating outcomes, and interpreting the distributions to inform practical insights. Visualizations, when relevant, are developed using libraries like matplotlib and seaborn, and some results are complemented with Excel or Power BI dashboards to improve interpretability for stakeholders.
+
+My goal with this repository is to master simulation-based reasoning and integrate it with project management, financial planning, and operational strategy. As I continue expanding this collection, I aim to document not only the technical implementation but also the business context and implications of each model.
